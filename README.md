@@ -1,10 +1,10 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/jaicoservice">
+<a href="https://twitter.com/jairodev_">
   <img align="left" alt="Jairo Colon" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  
 
-<a href="https://github.com/jaicodigital">
+<a href="https://github.com/jairocolon">
   <img align="left" alt="Jairo Colón en GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
