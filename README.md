@@ -5,7 +5,7 @@
 </a>  
 
 <a href="https://github.com/jairocolondev">
-  <img align="left" alt="Jairo Colón en GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  <img align="left" alt="Jairo Colón en GitHub" width="22px" src="https://freeicons.io/drinks/github-flat-black-white-website-icon-46049" />
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
@@ -43,10 +43,10 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 📊 **Esta semana he dedicado mi tiempo a:**
 <!--START_SECTION:waka-->
 ```text
-JSX          8 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.52 % 
-REACT        7 hrs           ████████████▒░░░░░░░░░░░░   47.08 % 
+JavaScript   10 hrs 10 mins   ██████████████▒░░░░░░░░░░   57.52 % 
+REACT        6 hrs           ████████████▒░░░░░░░░░░░░   47.08 % 
                         
-JavaScript   5 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 
+Python       3 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.80 % 
 Other        3 hrs           ██████▓░░░░░░░░░░░░░░░░░░   47.05 % 
  
 Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
@@ -56,4 +56,4 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 	🔰 Espero que podamos contactarnos 🔰
        Soy Jairo Colón
-       Desarrollador web Full Stack
+       Full Stack Web Developer
