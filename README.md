@@ -36,7 +36,7 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
 <code><img height="20" src="https://praveenpuglia.gallerycdn.vsassets.io/extensions/praveenpuglia/tailwind-breeze/2.2.6/1602691666511/Microsoft.VisualStudio.Services.Icons.Default"></code>								
 <code><img height="20" src="https://midu.dev/images/tags/node.png"></code>
-<code><img height="20" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pNYE-ryC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/wd83498n8oakhg4ch6rv.png"></code>
