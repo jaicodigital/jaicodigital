@@ -46,7 +46,8 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
 <code><img height="30" src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png"></code>	
 <code><img height="30" src="https://webintegral.com.co/wp-content/uploads/2018/05/postman-icon.png"></code>	
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"></code>			     
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"></code>	
+<code><img height="30" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"></code>										    
 
 📊 **Esta semana he dedicado mi tiempo a:**
 <!--START_SECTION:waka-->
