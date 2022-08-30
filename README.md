@@ -5,7 +5,7 @@
 </a>  
 
 <a href="https://github.com/jairocolondev">
-  <img align="left" alt="GitHub" width="22px" src="https://https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
+  <img align="left" alt="GitHub" width="22px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
@@ -24,7 +24,7 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 
   <img align="right" alt="GIF" src="codeDevJairoColon.gif" width="500" height="320" />
   
-- 💼 Me puedes contactar en mi portfolio, [Sitio web](https://jairocolon.com) 😊
+- 💼 Me puedes contactar en mi [Portfolio](https://jairocolon.com) 😊
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar ⭐
 
 **Lenguajes y herramientas:**  
