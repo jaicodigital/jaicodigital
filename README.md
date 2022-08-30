@@ -1,15 +1,15 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/jairocolondev">
-  <img align="left" alt="Jairo Colon" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  
 
 <a href="https://github.com/jairocolondev">
-  <img align="left" alt="Jairo Colón en GitHub" width="22px" src="https://freeicons.io/drinks/github-flat-black-white-website-icon-46049" />
+  <img align="left" alt="GitHub" width="22px" src="[https://freeicons.io/drinks/github-flat-black-white-website-icon-46049](https://www.nicepng.com/maxp/u2q8e6w7w7w7r5i1/)" />
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
-  <img align="left" alt="Jairo Colón en LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
