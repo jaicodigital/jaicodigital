@@ -5,7 +5,7 @@
 </a>  
 
 <a href="https://github.com/jairocolondev">
-  <img align="left" alt="GitHub" width="22px" src="[https://https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
+  <img align="left" alt="GitHub" width="22px" src="https://https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
