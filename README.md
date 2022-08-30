@@ -32,7 +32,9 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
+<code><img height="20" src="https://praveenpuglia.gallerycdn.vsassets.io/extensions/praveenpuglia/tailwind-breeze/2.2.6/1602691666511/Microsoft.VisualStudio.Services.Icons.Default"></code>								
 <code><img height="20" src="https://midu.dev/images/tags/node.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/724/234/png-transparent-redux-react-javascript-vue-js-single-page-application-others.png"></code>
