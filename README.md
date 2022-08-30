@@ -29,6 +29,8 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 
 **Lenguajes y herramientas:**  
 
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
 <code><img height="20" src="https://midu.dev/images/tags/node.png"></code>
