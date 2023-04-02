@@ -41,7 +41,6 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/73/VTEX_logo.png"></code>
 <code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--M5dHch5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AR6WHuWI0M9I4t-og2yNq-w.png"></code>
 <code><img height="30" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/371852iB18F72B525B661CF"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
 <code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/sequelize.png"></code>
