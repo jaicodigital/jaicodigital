@@ -38,7 +38,7 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="30" src="https://praveenpuglia.gallerycdn.vsassets.io/extensions/praveenpuglia/tailwind-breeze/2.2.6/1602691666511/Microsoft.VisualStudio.Services.Icons.Default"></code>								
 <code><img height="30" src="https://midu.dev/images/tags/node.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/mongodb.png"></code>
-<code><img height="30" src="[https://img.icons8.com/color/480/mongodb.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fguibranco%2FVTEX-SDK-dotnet&psig=AOvVaw0Xdn5RkuDGAIEvaBaKxK62&ust=1680480662863000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICahbr0if4CFQAAAAAdAAAAABAE)"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fguibranco%2FVTEX-SDK-dotnet&psig=AOvVaw0Xdn5RkuDGAIEvaBaKxK62&ust=1680480662863000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICahbr0if4CFQAAAAAdAAAAABAE)"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
