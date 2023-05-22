@@ -74,6 +74,6 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
       + Frontend Developer
       + VTEX Developer
       + SEO specialist
-      + UX/UI Engineer
+      + UX/UI Designer
       + Social Commerce
 
