@@ -68,8 +68,11 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-	🔰 Espero que podamos contactarnos 🔰
+      🔰 Espero que podamos contactarnos 🔰
        Soy Jairo Colón (Software Engineer)
-       + Frontend Engineer
+
+       + Frontend Developer
        + UX/UI Designer
+       + SEO specialist
        + Full Stack Developer
+
