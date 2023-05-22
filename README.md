@@ -17,7 +17,7 @@
 
 <br />
 
-Hola, soy Jairo Colón un apasionado Software Engineer, desarrollador web autodidacta de inicio y certificado en [Platzi](https://www.platzi.com?target=_blank), también en [Henry Academy](https://www.soyhenry.com?target=_blank). Mi pasión por el desarrollo software consiste en soñar con ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
+Hola, soy Jairo Colón un apasionado Software Engineer, desarrollador web autodidacta de inicio y certificado en [Platzi](https://www.platzi.com/?target=_blank), también en [Henry Academy](https://www.soyhenry.com/?target=_blank). Mi pasión por el desarrollo software consiste en soñar con ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia de usuario, la arquitectura y la calidad del código de las cosas que construyo.
 
 Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habilidades creativas que implemento como desarrollador, y diseñador UX/UI, soy curioso y me apasiona estar constantemente aprendiendo, para evolucionar de la mejor forma, al ritmo con que avanza la tegnología. También soy un entusiasta, y apoyo el  código abierto. He aprendido mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se producen a través del código abierto.   
 <br />
