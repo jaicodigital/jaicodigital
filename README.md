@@ -71,8 +71,9 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
       🔰 Espero que podamos contactarnos 🔰
        Soy Jairo Colón (Software Engineer)
 
-       + Frontend Developer
-       + UX/UI Designer
-       + SEO specialist
-       + Full Stack Developer
+      + Frontend Developer
+      + VTEX Developer
+      + SEO specialist
+      + UX/UI Engineer
+      + Social Commerce
 
