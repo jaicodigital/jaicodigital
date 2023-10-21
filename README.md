@@ -39,8 +39,8 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="30" src="https://midu.dev/images/tags/node.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/73/VTEX_logo.png"></code>
-<code><img height="30" src="https://companieslogo.com/img/orig/SHOP_BIG.D-bc80c1f3.png?t=1633439432"></code>
-<code><img height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--M5dHch5L--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/800/1%2AR6WHuWI0M9I4t-og2yNq-w.png"></code>
+<code><img height="30" src="https://investors.shopify.com/files/design/logo/shopify_glyph_for_social.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png"></code>
 <code><img height="30" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/371852iB18F72B525B661CF"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
