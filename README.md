@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
+  <img align="left" alt="LinkedIn" width="40px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="margin-top: -10px;" />
 </a>
 
 <br />
