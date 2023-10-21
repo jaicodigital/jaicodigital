@@ -1,7 +1,7 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/jairocolondev">
-  <img align="left" alt="Twitter" | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
+  <img align="left" alt="Twitter | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
 </a>  
 
 <a href="https://github.com/jairocolondev">
@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
-  <img align="left" alt="LinkedIn" width="40px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" style="margin-top: -10px;" />
+  <img align="left" alt="LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" />
 </a>
 
 <br />
