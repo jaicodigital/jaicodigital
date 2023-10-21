@@ -50,7 +50,7 @@ Al tener un gran hobbie como bailarín profesional, me ha ayudado a obtener habi
 <code><img height="30" src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png"></code>	
 <code><img height="30" src="https://webintegral.com.co/wp-content/uploads/2018/05/postman-icon.png"></code>	
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"></code>	
-<code><img height="30" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png"></code>
 <code><img height="30" src="https://cfw.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoiam5td2ViY3JlYXRpb25zLmNvbSIsInYiOjc2MDM2MzU1OCwiaSI6IjkwZGYyZjBkLTAyNjYtNDIyMi00OGM3LTJjODY3NWI4Y2MwMCJ9/wp-content/uploads/2019/10/600_483722973.png"></code>
 <code><img height="30" src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png"></code>
