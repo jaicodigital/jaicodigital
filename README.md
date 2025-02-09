@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jairocolondev/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" />
+  <img align="left" alt="LinkedIn" width="25px" src="https://images.seeklogo.com/logo-png/24/1/linkedin-icon-logo-png_seeklogo-249364.png" />
 </a>
 
 <br />
